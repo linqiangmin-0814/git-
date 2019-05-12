@@ -40,3 +40,10 @@ git remote add origin git@github.com:linqiangmin-0814/git-.git
 远程仓库不是空的，则需要先将远程仓库与本地仓库同步,
 使用命令:git pull --rebase origin master.将远程文件拉回本地仓库,
 然后再执行:git push origin master,就能成功了.
+
+第十三步：接下去修改本地仓库上的文件，修改后要执行提交到远端库
+先执行：git add 文件名
+
+第十四步：执行git commit -m "add some line"
+
+第十五步：git push提交到远端仓库
