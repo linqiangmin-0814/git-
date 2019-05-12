@@ -25,7 +25,7 @@ git remote add origin git@github.com:linqiangmin-0814/git-.git
 接下去就可以把本地项目上传到github远端仓库上
 
 第十二步：
-①如果是按照上面的操作，那么远程仓库是空的且为第一次上传,
+如果是按照上面的操作，那么远程仓库是空的且为第一次上传,
 使用命令:git push -u origin master，进行上传操作完成同步。
 如果不是第一次则使用命令：git push origin master , -u 仅在第一次上传时加上，
 以后都不需要了。将修改后的项目上传到github远程仓库。
