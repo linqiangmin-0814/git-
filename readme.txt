@@ -51,3 +51,7 @@ git remote add origin git@github.com:linqiangmin-0814/git-.git
 第十四步：执行git commit -m "add some line"
 
 第十五步：git push提交到远端仓库
+
+
+如果要把https://github.com上别人的代码仓库下载到本地电脑，通过下面命令
+git clone https://github.com/brendangregg/FlameGraph.git  
