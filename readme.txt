@@ -1,3 +1,6 @@
+说明：如果git push提示无法连接远端github库，原因是网络问题
+
+
 第一步：安装git工具，下载地址git-scm.com
 第二步：打开bash，选择要创建的git仓库文件夹，执行git init；这步是把本地版本库变成git仓库
 第三步：在对应文件夹下面创建一个readme.txt文档
